@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Travels" max_length="40" name="x_289263_fda_con_0_travel_requested" sizeclass="0" type="collection">
+        <element label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element label="Is Travel Critical" max_length="40" name="is_travel_critical" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Request ID" max_length="32" name="request_id" read_only="true" type="document_id"/>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element label="Total Cost" max_length="20" name="total_cost" type="currency"/>
+        <element label="Travel Absent Consequence" max_length="40" name="travel_absent_consequence" type="string"/>
+        <element label="Travel Cost Break Down" max_length="40" name="travel_cost_break_down" type="string"/>
+        <element label="Travel Employees Name" max_length="40" name="travel_employees_name" type="string"/>
+        <element label="Travel Impact" max_length="40" name="travel_impact" type="string"/>
+        <element label="Travel Purpose" max_length="40" name="travel_purpose" type="string"/>
+        <element display="true" label="Travel Title" max_length="255" name="travel_title" type="string_full_utf8"/>
+        <element choice="1" label="Travel Trip Purpose" max_length="40" name="travel_trip_purpose" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Speaking" sequence="10" value="speaking"/>
+                <element inactive_on_update="false" label="Attendance" sequence="20" value="attendance"/>
+                <element inactive_on_update="false" label="Other(Type in Your Purpose)" sequence="30" value="other_type_in_your_purpose"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="request_id"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="FDA Conference Travel Request and Approval  Config">b1cb2f3d20920110d2e566e190934893</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Attachments</name>
+        <optional_parameters/>
+        <order>300</order>
+        <parent_macroponent display_value="Record Page(task)">31cb2f3dbd9201103e9433e949dd41a0</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_task_attachment</route_type>
+        <screen_type display_value="Attachments">3dcb2f3da492011048c5fedc5c2f629f</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-03-18 19:43:54</sys_created_on>
+        <sys_id>bdcb2f3dac9201101722c3c59308e99f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachments</sys_name>
+        <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+        <sys_update_name>sys_ux_app_route_bdcb2f3dac9201101722c3c59308e99f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-03-18 19:43:54</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=bdcb2f3dac9201101722c3c59308e99f"/>
+</record_update>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="travel_trip_purpose" table="x_289263_fda_con_0_travel_requested" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>travel_trip_purpose</element>
+            <name>x_289263_fda_con_0_travel_requested</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-14 17:33:38</sys_created_on>
+            <sys_id>75e09ae247f2011052b87868f36d4315</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>travel_trip_purpose</sys_name>
+            <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+            <sys_update_name>sys_choice_x_289263_fda_con_0_travel_requested_travel_trip_purpose</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-14 17:33:38</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>travel_trip_purpose</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Speaking</label>
+            <language>en</language>
+            <name>x_289263_fda_con_0_travel_requested</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-14 17:33:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bde09ae247f2011052b87868f36d4314</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-14 17:33:38</sys_updated_on>
+            <value>speaking</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>travel_trip_purpose</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Attendance</label>
+            <language>en</language>
+            <name>x_289263_fda_con_0_travel_requested</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-14 17:33:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3de0dae247f2011052b87868f36d430b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-14 17:33:38</sys_updated_on>
+            <value>attendance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>travel_trip_purpose</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other(Type in Your Purpose)</label>
+            <language>en</language>
+            <name>x_289263_fda_con_0_travel_requested</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-14 17:33:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fde09ae247f2011052b87868f36d4318</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-14 17:33:38</sys_updated_on>
+            <value>other_type_in_your_purpose</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

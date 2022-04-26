@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="FDA Centers" max_length="40" name="x_289263_fda_con_0_fda_centers" sizeclass="10" type="collection">
+        <element label="Full Title" max_length="128" name="full_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element display="true" label="Title" max_length="15" name="title" type="string"/>
+    </element>
+</database>

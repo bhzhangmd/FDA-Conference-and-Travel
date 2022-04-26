@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>2782a666e236011008291748d33a2c9d</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app/>
+        <path>fda-conference-travel-request-and-approval</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-04-14 18:50:50</sys_created_on>
+        <sys_id>6782a666ef3601105ccc272bb1b6bf9d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDA Conference Travel Request and Approval</sys_name>
+        <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+        <sys_update_name>sys_ux_page_registry_6782a666ef3601105ccc272bb1b6bf9d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-04-14 18:50:50</sys_updated_on>
+        <title>FDA Conference Travel Request and Approval </title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</application>
+        <file_path/>
+        <instance_id>84f9fe42db3bdf400e785d00cf96190d</instance_id>
+        <instance_name>dev69754</instance_name>
+        <name>sys_ux_page_registry_6782a666ef3601105ccc272bb1b6bf9d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>2782a666e236011008291748d33a2c9d</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app/><path>fda-conference-travel-request-and-approval</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2022-04-14 18:50:50</sys_created_on><sys_id>6782a666ef3601105ccc272bb1b6bf9d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>FDA Conference Travel Request and Approval</sys_name><sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package><sys_policy/><sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope><sys_update_name>sys_ux_page_registry_6782a666ef3601105ccc272bb1b6bf9d</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2022-04-14 18:50:50</sys_updated_on><title>FDA Conference Travel Request and Approval </title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-1175409334</payload_hash>
+        <record_name>FDA Conference Travel Request and Approval </record_name>
+        <reverted_from/>
+        <source>a2b1f8a14712011052b87868f36d43f9</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-03-17 11:32:29</sys_created_on>
+        <sys_id>9c08cbcc4703011052b87868f36d43fa</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17f97a68cc80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>5c08cbcce6030110f802b9f3220853fa</update_guid>
+        <update_guid_history>5c08cbcce6030110f802b9f3220853fa:-1175409334</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-19 13:25:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>4d9706bf9e0e44e08acea847313cfe40</sys_id>
+        <sys_metadata>6782a666ef3601105ccc272bb1b6bf9d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDA Conference Travel Request and Approval</sys_name>
+        <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+        <sys_scope_delete display_value="">f361faa53e084a5097d998f717c07c90</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_6782a666ef3601105ccc272bb1b6bf9d</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_6782a666ef3601105ccc272bb1b6bf9d">9c08cbcc4703011052b87868f36d43fa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-19 13:25:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

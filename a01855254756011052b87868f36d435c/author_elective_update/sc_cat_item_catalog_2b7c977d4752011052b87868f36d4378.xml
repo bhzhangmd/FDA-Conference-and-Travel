@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="FDA Conference and Travel Requests">1808df394752011052b87868f36d437a</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-18 18:37:04</sys_created_on>
+        <sys_id>2b7c977d4752011052b87868f36d4378</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.FDA Conference and Travel Requests</sys_name>
+        <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_2b7c977d4752011052b87868f36d4378</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-18 18:37:04</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</application>
+        <file_path/>
+        <instance_id>84f9fe42db3bdf400e785d00cf96190d</instance_id>
+        <instance_name>dev69754</instance_name>
+        <name>sc_cat_item_catalog_2b7c977d4752011052b87868f36d4378</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="FDA Conference and Travel Requests">1808df394752011052b87868f36d437a</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-18 18:37:04</sys_created_on><sys_id>2b7c977d4752011052b87868f36d4378</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.FDA Conference and Travel Requests</sys_name><sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package><sys_policy/><sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope><sys_update_name>sc_cat_item_catalog_2b7c977d4752011052b87868f36d4378</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-18 18:37:04</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1235205989</payload_hash>
+        <record_name>Service Catalog.FDA Conference and Travel Requests</record_name>
+        <reverted_from/>
+        <source>e01855254756011052b87868f36d435e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-18 18:37:04</sys_created_on>
+        <sys_id>bb7c977d4752011052b87868f36d437e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f9e51a19d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-18 18:37:04</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>337c977d655201103f7cef046f83677e</update_guid>
+        <update_guid_history>337c977d655201103f7cef046f83677e:-1235205989</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.FDA Conference and Travel Requests">2c78e3794792011052b87868f36d433a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-18 19:29:17</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>49e3417857684fbf800ef3c21b984581</sys_id>
+        <sys_metadata>2b7c977d4752011052b87868f36d4378</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.FDA Conference and Travel Requests</sys_name>
+        <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+        <sys_parent display_value="">1808df394752011052b87868f36d437a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+        <sys_scope_delete display_value="">f361faa53e084a5097d998f717c07c90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_2b7c977d4752011052b87868f36d4378</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_2b7c977d4752011052b87868f36d4378">bb7c977d4752011052b87868f36d437e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-18 19:29:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

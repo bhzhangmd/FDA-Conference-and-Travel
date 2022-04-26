@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="DELETE">
+        <description/>
+        <name>form 1</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-14 19:23:02</sys_created_on>
+        <sys_id>18f926a64736011052b87868f36d434f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>form 1</sys_name>
+        <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+        <sys_update_name>sys_ux_screen_type_18f926a64736011052b87868f36d434f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-14 19:23:02</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="DELETE" query="documentkey=18f926a64736011052b87868f36d434f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</application>
+        <file_path/>
+        <instance_id>84f9fe42db3bdf400e785d00cf96190d</instance_id>
+        <instance_name>dev69754</instance_name>
+        <name>sys_ux_screen_type_18f926a64736011052b87868f36d434f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>form 1</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-14 19:23:02</sys_created_on><sys_id>18f926a64736011052b87868f36d434f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>form 1</sys_name><sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package><sys_policy/><sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope><sys_update_name>sys_ux_screen_type_18f926a64736011052b87868f36d434f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-14 19:23:02</sys_updated_on></sys_ux_screen_type><sys_translated_text action="delete_multiple" query="documentkey=18f926a64736011052b87868f36d434f"/></record_update>]]></payload>
+        <payload_hash>870140222</payload_hash>
+        <record_name>form 1</record_name>
+        <reverted_from/>
+        <source>e01855254756011052b87868f36d435e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-14 19:23:02</sys_created_on>
+        <sys_id>54f926a64736011052b87868f36d4351</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18029876b490000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-14 19:23:02</sys_updated_on>
+        <type>UX Screen Collection</type>
+        <update_guid>9cf926a635360110e7adff6790a08450</update_guid>
+        <update_guid_history>9cf926a635360110e7adff6790a08450:870140222</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-14 19:31:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen_type">sys_ux_screen_type</sys_db_object>
+        <sys_id>333786984bfe4c109006fcfa3ce202e4</sys_id>
+        <sys_metadata>18f926a64736011052b87868f36d434f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>form 1</sys_name>
+        <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+        <sys_scope_delete display_value="">f361faa53e084a5097d998f717c07c90</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_type_18f926a64736011052b87868f36d434f</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_type_18f926a64736011052b87868f36d434f">54f926a64736011052b87868f36d4351</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-14 19:31:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

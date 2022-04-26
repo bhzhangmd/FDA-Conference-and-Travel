@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="7f4a37c04707011052b87868f36d430a" sys_domain="global" table="x_289263_fda_con_0_test77" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 17:05:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f34a37c04707011052b87868f36d430d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_289263_fda_con_0_test77" name="x_289263_fda_con_0_test77" sys_domain="global" view="Default view">7f4a37c04707011052b87868f36d430a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_289263_fda_con_0_test77" sys_domain="global" view="Default view">c03ffaf747f2011052b87868f36d4363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 17:05:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 17:05:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f4a37c04707011052b87868f36d430f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_289263_fda_con_0_test77" name="x_289263_fda_con_0_test77" sys_domain="global" view="Default view">7f4a37c04707011052b87868f36d430a</sys_ui_form>
+            <sys_ui_section caption="Attending Conference" display_value="Attending Conference" name="x_289263_fda_con_0_test77" sys_domain="global" view="Default view">bf4a37c04707011052b87868f36d430d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 17:05:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 17:06:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df8a3b404707011052b87868f36d4345</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_289263_fda_con_0_test77" name="x_289263_fda_con_0_test77" sys_domain="global" view="Default view">7f4a37c04707011052b87868f36d430a</sys_ui_form>
+            <sys_ui_section caption="Hosting Conference" display_value="Hosting Conference" name="x_289263_fda_con_0_test77" sys_domain="global" view="Default view">1f8a3b404707011052b87868f36d4343</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 17:25:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 17:05:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc7ab7c04707011052b87868f36d4309</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_289263_fda_con_0_test77" name="x_289263_fda_con_0_test77" sys_domain="global" view="Default view">7f4a37c04707011052b87868f36d430a</sys_ui_form>
+            <sys_ui_section caption="Travel Request" display_value="Travel Request" name="x_289263_fda_con_0_test77" sys_domain="global" view="Default view">bc7ab7c04707011052b87868f36d4307</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 17:25:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_289263_fda_con_0_test77</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 17:05:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f4a37c04707011052b87868f36d430a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_289263_fda_con_0_test77</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_7f4a37c04707011052b87868f36d430a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 17:05:03</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

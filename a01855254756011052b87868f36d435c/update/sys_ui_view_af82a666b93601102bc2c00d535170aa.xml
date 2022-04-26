@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>2_custom_portal_approval_x_289263_fda_con_0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-04-14 18:50:49</sys_created_on>
+        <sys_id>af82a666b93601102bc2c00d535170aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2_custom_portal_approval_x_289263_fda_con_0</sys_name>
+        <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+        <sys_update_name>sys_ui_view_af82a666b93601102bc2c00d535170aa</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-04-14 18:50:49</sys_updated_on>
+        <title>2_custom_portal_approval_x_289263_fda_con_0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

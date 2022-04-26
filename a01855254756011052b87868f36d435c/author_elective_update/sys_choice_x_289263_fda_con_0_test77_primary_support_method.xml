@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="primary_support_method" table="x_289263_fda_con_0_test77" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>primary_support_method</element>
+            <name>x_289263_fda_con_0_test77</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-14 17:11:51</sys_created_on>
+            <sys_id>36eb8aae47b2011052b87868f36d43b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>primary_support_method</sys_name>
+            <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+            <sys_update_name>sys_choice_x_289263_fda_con_0_test77_primary_support_method</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-14 17:11:51</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>primary_support_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Government Staff</label>
+            <language>en</language>
+            <name>x_289263_fda_con_0_test77</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-14 17:11:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7eeb8aae47b2011052b87868f36d43b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-14 17:11:51</sys_updated_on>
+            <value>government_staff</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>primary_support_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Contractor/Planner Support</label>
+            <language>en</language>
+            <name>x_289263_fda_con_0_test77</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-14 17:11:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>72eb8aae47b2011052b87868f36d43c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-14 17:11:51</sys_updated_on>
+            <value>contractor_planner_support</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>primary_support_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grant or Cooperative Agreement</label>
+            <language>en</language>
+            <name>x_289263_fda_con_0_test77</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-14 17:11:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>76eb8aae47b2011052b87868f36d43b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-14 17:11:52</sys_updated_on>
+            <value>grant_or_cooperative_agreement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>primary_support_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other (Describe below)</label>
+            <language>en</language>
+            <name>x_289263_fda_con_0_test77</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-14 17:11:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>faeb8aae47b2011052b87868f36d43c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-14 17:11:52</sys_updated_on>
+            <value>other_describe_below</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

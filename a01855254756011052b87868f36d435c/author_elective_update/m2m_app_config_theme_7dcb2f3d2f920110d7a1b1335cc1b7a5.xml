@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability display_value="Public">3dcb2f3dbc9201102b1f435650aa9da5</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-03-18 19:43:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7dcb2f3d2f920110d7a1b1335cc1b7a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+        <sys_update_name>m2m_app_config_theme_7dcb2f3d2f920110d7a1b1335cc1b7a5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-03-18 19:43:52</sys_updated_on>
+        <theme display_value="">fdcb2f3d73920110401f9b15fd03c0a5</theme>
+        <ux_app_configuration display_value="FDA Conference Travel Request and Approval  Config">b1cb2f3d20920110d2e566e190934893</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</application>
+        <file_path/>
+        <instance_id>84f9fe42db3bdf400e785d00cf96190d</instance_id>
+        <instance_name>dev69754</instance_name>
+        <name>m2m_app_config_theme_7dcb2f3d2f920110d7a1b1335cc1b7a5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability display_value="Public">3dcb2f3dbc9201102b1f435650aa9da5</applicability><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2022-03-18 19:43:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7dcb2f3d2f920110d7a1b1335cc1b7a5</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package><sys_policy/><sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope><sys_update_name>m2m_app_config_theme_7dcb2f3d2f920110d7a1b1335cc1b7a5</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2022-03-18 19:43:52</sys_updated_on><theme display_value="">fdcb2f3d73920110401f9b15fd03c0a5</theme><ux_app_configuration display_value="FDA Conference Travel Request and Approval  Config">b1cb2f3d20920110d2e566e190934893</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>1723814545</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>a2b1f8a14712011052b87868f36d43f9</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-03-17 11:32:29</sys_created_on>
+        <sys_id>e150815247b2011052b87868f36d4337</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17f97a68cc80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Theme</type>
+        <update_guid>a1508152b6b20110d3b8e0eccb11cd37</update_guid>
+        <update_guid_history>a1508152b6b20110d3b8e0eccb11cd37:1723814545</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">2550815247b2011052b87868f36d4338</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-13 17:03:09</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>072f73dd22484c19825ea930ed69b649</sys_id>
+        <sys_metadata>7dcb2f3d2f920110d7a1b1335cc1b7a5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+        <sys_scope_delete display_value="">f361faa53e084a5097d998f717c07c90</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_7dcb2f3d2f920110d7a1b1335cc1b7a5</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_7dcb2f3d2f920110d7a1b1335cc1b7a5">e150815247b2011052b87868f36d4337</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-13 17:03:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

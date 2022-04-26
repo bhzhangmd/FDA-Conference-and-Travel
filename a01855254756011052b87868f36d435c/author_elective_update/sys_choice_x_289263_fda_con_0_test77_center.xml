@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="center" table="x_289263_fda_con_0_test77" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>center</element>
+            <name>x_289263_fda_con_0_test77</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 17:13:06</sys_created_on>
+            <sys_id>e12c37444707011052b87868f36d4331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>center</sys_name>
+            <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+            <sys_update_name>sys_choice_x_289263_fda_con_0_test77_center</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 17:13:06</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>center</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CBER</label>
+            <language>en</language>
+            <name>x_289263_fda_con_0_test77</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 17:13:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d2c37444707011052b87868f36d4330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 17:13:06</sys_updated_on>
+            <value>cber</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>center</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CDER</label>
+            <language>en</language>
+            <name>x_289263_fda_con_0_test77</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 17:13:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>212cbb044707011052b87868f36d43d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 17:13:06</sys_updated_on>
+            <value>cder</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>center</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CDRH</label>
+            <language>en</language>
+            <name>x_289263_fda_con_0_test77</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 17:13:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e52c37444707011052b87868f36d4347</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 17:13:06</sys_updated_on>
+            <value>cdrh</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>center</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CFSAN</label>
+            <language>en</language>
+            <name>x_289263_fda_con_0_test77</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 17:13:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b92c37444707011052b87868f36d4359</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 17:13:06</sys_updated_on>
+            <value>cfsan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>center</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CTP</label>
+            <language>en</language>
+            <name>x_289263_fda_con_0_test77</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 17:13:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>712c37444707011052b87868f36d434b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 17:13:06</sys_updated_on>
+            <value>ctp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>center</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CVM</label>
+            <language>en</language>
+            <name>x_289263_fda_con_0_test77</name>
+            <sequence>60</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 17:13:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>352c37444707011052b87868f36d435d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 17:13:07</sys_updated_on>
+            <value>cvm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>center</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NCTR</label>
+            <language>en</language>
+            <name>x_289263_fda_con_0_test77</name>
+            <sequence>70</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 17:13:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>792c37444707011052b87868f36d4367</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 17:13:07</sys_updated_on>
+            <value>nctr</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>center</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OC</label>
+            <language>en</language>
+            <name>x_289263_fda_con_0_test77</name>
+            <sequence>80</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 17:13:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd2c37444707011052b87868f36d4360</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 17:13:07</sys_updated_on>
+            <value>oc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>center</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ODT</label>
+            <language>en</language>
+            <name>x_289263_fda_con_0_test77</name>
+            <sequence>90</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 17:13:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f12c37444707011052b87868f36d436b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 17:13:07</sys_updated_on>
+            <value>odt</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>center</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ORA</label>
+            <language>en</language>
+            <name>x_289263_fda_con_0_test77</name>
+            <sequence>100</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 17:13:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>392c37444707011052b87868f36d4364</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 17:13:07</sys_updated_on>
+            <value>ora</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme">
+    <sys_ux_theme action="DELETE">
+        <active>true</active>
+        <description/>
+        <name>Safety Theme</name>
+        <parent display_value="Default">a309795273230010fd843c78caf6a724</parent>
+        <sys_class_name>sys_ux_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-03-18 19:43:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fdcb2f3d73920110401f9b15fd03c0a5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Safety Theme</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+        <sys_update_name>sys_ux_theme_fdcb2f3d73920110401f9b15fd03c0a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-13 16:50:57</sys_updated_on>
+        <theme>&#13;
+{&#13;
+"canvas-nav-item--main-nav-navigation--selected--box-shadow": "var(--now-color--primary-3)",&#13;
+"canvas-menu--background-color": "var(--now-color--primary-0)",&#13;
+"--now-button--border-radius": "4px",&#13;
+"--now-color--primary-0": "228,230,231",&#13;
+"--now-color--primary-1": "41, 62, 64",&#13;
+"--now-color--primary-2": "129, 181, 161",&#13;
+"--now-color--primary-3": "71, 77, 82",&#13;
+"--now-button--border-width": "2",&#13;
+"--now-button--secondary--border-color": "var(--now-color--primary-3)",&#13;
+"--now-card--border-radius": "4px"&#13;
+}</theme>
+    </sys_ux_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</application>
+        <file_path/>
+        <instance_id>84f9fe42db3bdf400e785d00cf96190d</instance_id>
+        <instance_name>dev69754</instance_name>
+        <name>sys_ux_theme_fdcb2f3d73920110401f9b15fd03c0a5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme"><sys_ux_theme action="INSERT_OR_UPDATE"><active>true</active><description/><name>Safety Theme</name><parent display_value="Default">a309795273230010fd843c78caf6a724</parent><sys_class_name>sys_ux_theme</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2022-03-18 19:43:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fdcb2f3d73920110401f9b15fd03c0a5</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Safety Theme</sys_name><sys_overrides/><sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package><sys_policy/><sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope><sys_update_name>sys_ux_theme_fdcb2f3d73920110401f9b15fd03c0a5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-13 16:50:57</sys_updated_on><theme>&#13;
+{&#13;
+"canvas-nav-item--main-nav-navigation--selected--box-shadow": "var(--now-color--primary-3)",&#13;
+"canvas-menu--background-color": "var(--now-color--primary-0)",&#13;
+"--now-button--border-radius": "4px",&#13;
+"--now-color--primary-0": "228,230,231",&#13;
+"--now-color--primary-1": "41, 62, 64",&#13;
+"--now-color--primary-2": "129, 181, 161",&#13;
+"--now-color--primary-3": "71, 77, 82",&#13;
+"--now-button--border-width": "2",&#13;
+"--now-button--secondary--border-color": "var(--now-color--primary-3)",&#13;
+"--now-card--border-radius": "4px"&#13;
+}</theme></sys_ux_theme></record_update>]]></payload>
+        <payload_hash>1623693755</payload_hash>
+        <record_name>Safety Theme</record_name>
+        <reverted_from/>
+        <source>e01855254756011052b87868f36d435e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-13 16:50:57</sys_created_on>
+        <sys_id>328d7c1e4772011052b87868f36d438b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18023d5d2890000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-13 16:50:57</sys_updated_on>
+        <type>UX Theme</type>
+        <update_guid>7a8d7c1e607201107dc42733cdc0af8a</update_guid>
+        <update_guid_history>7a8d7c1e607201107dc42733cdc0af8a:1623693755,bd24f81606720110b87bfa26bf133446:-2051446985,b924f8168a7201105993eef6c963ed44:1291218291</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-13 17:03:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_theme">sys_ux_theme</sys_db_object>
+        <sys_id>03edec3f88bc42cd8206ae568f1a0be9</sys_id>
+        <sys_metadata>fdcb2f3d73920110401f9b15fd03c0a5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety Theme</sys_name>
+        <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+        <sys_scope_delete display_value="">f361faa53e084a5097d998f717c07c90</sys_scope_delete>
+        <sys_update_name>sys_ux_theme_fdcb2f3d73920110401f9b15fd03c0a5</sys_update_name>
+        <sys_update_version display_value="sys_ux_theme_fdcb2f3d73920110401f9b15fd03c0a5">328d7c1e4772011052b87868f36d438b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-13 17:03:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

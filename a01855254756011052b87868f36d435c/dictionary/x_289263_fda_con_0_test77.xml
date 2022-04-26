@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Conferences" max_length="40" name="x_289263_fda_con_0_test77" sizeclass="4" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Agenda Not Available" max_length="40" name="agenda_not_available" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Any Course List" max_length="40" name="any_course_list" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="App Created By" max_length="40" name="app_created_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="App Modified By" max_length="40" name="app_modified_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Attendance Costs" max_length="40" name="attendance_costs" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Attendee Number Justification" max_length="40" name="attendee_number_justification" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Audience Profession" max_length="40" name="audience_profession" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Audio Visual Cost" max_length="40" name="audio_visual_cost" type="currency"/>
+        <element choice="1" label="Center" max_length="40" name="center" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CBER" sequence="10" value="cber"/>
+                <element inactive_on_update="false" label="CDER" sequence="20" value="cder"/>
+                <element inactive_on_update="false" label="CDRH" sequence="30" value="cdrh"/>
+                <element inactive_on_update="false" label="CFSAN" sequence="40" value="cfsan"/>
+                <element inactive_on_update="false" label="CTP" sequence="50" value="ctp"/>
+                <element inactive_on_update="false" label="CVM" sequence="60" value="cvm"/>
+                <element inactive_on_update="false" label="NCTR" sequence="70" value="nctr"/>
+                <element inactive_on_update="false" label="OC" sequence="80" value="oc"/>
+                <element inactive_on_update="false" label="ODT" sequence="90" value="odt"/>
+                <element inactive_on_update="false" label="ORA" sequence="100" value="ora"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Conference Name" max_length="40" name="conference_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Conference Purpose" max_length="40" name="conference_purpose" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="attending" label="Conference Role" max_length="40" name="conference_role" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Attending" sequence="10" value="attending"/>
+                <element inactive_on_update="false" label="Hosting" sequence="20" value="hosting"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Conference Website" max_length="40" name="conference_website" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Contractor Planner Cost" max_length="40" name="contractor_planner_cost" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Cost Per Attendee" max_length="40" name="cost_per_attendee" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Directorate Name" max_length="40" name="directorate_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Early Reg Deadline" max_length="40" name="early_reg_deadline" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Employees Funded" max_length="40" name="employees_funded" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Estimated Conference Cost" max_length="40" name="estimated_conference_cost" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Estimated Cost Per Person" max_length="40" name="estimated_cost_per_person" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Estimated Travel Cost" max_length="40" name="estimated_travel_cost" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Federal Attendees" max_length="40" name="federal_attendees" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Federal Attendee Travel Cost" max_length="40" name="federal_attendee_travel_cost" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Fed Attendee Exhibit Costs" max_length="40" name="fed_attendee_exhibit_costs" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Fed-Attendee Other Costs" max_length="40" name="fed_attendee_other_costs" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Fed-Attendee Reg Costs" max_length="40" name="fed_attendee_reg_costs" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Frequency Justification" max_length="40" name="frequency_justification" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Grand CoAg" max_length="40" name="grand_coag" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Hosting Org" max_length="40" name="hosting_org" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="International Conference" max_length="40" name="international_conference" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Is Curriculum Based" max_length="40" name="is_curriculum_based" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Is Travel Required" max_length="40" name="is_travel_required" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Justify Number of Days" max_length="40" name="justify_number_of_days" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Meeting Space Venue Cost" max_length="40" name="meeting_space_venue_cost" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Misc Expense Break-Down" max_length="40" name="misc_expense_break_down" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Missions Supported" max_length="40" name="missions_supported" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Non Employees Funded" max_length="40" name="non_employees_funded" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Non Federal Attendees Number" max_length="40" name="non_federal_attendees_number" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Non Federal Attendee Travel Cost" max_length="40" name="non_federal_attendee_travel_cost" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Non Federal  Space" max_length="40" name="non_federal_space" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Non Fed Attendee Exhibit Costs" max_length="40" name="non_fed_attendee_exhibit_costs" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Non Fed Attendee Other Costs" max_length="40" name="non_fed_attendee_other_costs" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Non Fed Attendee Reg Costs" max_length="40" name="non_fed_attendee_reg_costs" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="fda" label="OPDIV Staff DIV" max_length="40" name="opdiv_staff_div" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="FDA" sequence="10" value="fda"/>
+                <element inactive_on_update="false" label="Other" sequence="20" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Other Conference Cost" max_length="40" name="other_conference_cost" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Other Cost Explanation" max_length="40" name="other_cost_explanation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Other Sponsor Funded Amount" max_length="40" name="other_sponsor_funded_amount" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Other Support Method Explanation" max_length="40" name="other_support_method_explanation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Participate Virtually" max_length="40" name="participate_virtually" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Primary Support Method" max_length="40" name="primary_support_method" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Government Staff" sequence="10" value="government_staff"/>
+                <element inactive_on_update="false" label="Contractor/Planner Support" sequence="20" value="contractor_planner_support"/>
+                <element inactive_on_update="false" label="Grant or Cooperative Agreement" sequence="30" value="grant_or_cooperative_agreement"/>
+                <element inactive_on_update="false" label="Other (Describe below)" sequence="40" value="other_describe_below"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Printing Fee" max_length="40" name="printing_fee" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Promotion Materials Cost" max_length="40" name="promotion_materials_cpst" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Reason to Change Attendee Number" max_length="40" name="reason_to_change_attendee_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Registration Fee" max_length="40" name="registration_fee" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Registration Fees Collected" max_length="40" name="registration_fees_collected" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Registration Fees Explanation" max_length="40" name="registration_fees_explanation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Registration Website Cost" max_length="40" name="registration_website_cost" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Remarks" max_length="40" name="remarks" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requestor Office" max_length="40" name="requestor_office" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requestor Title" max_length="40" name="requestor_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Request Created By" max_length="40" name="request_created_by" type="string"/>
+        <element choice="3" default="conference" label="Request for" max_length="40" name="request_for" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Conference" sequence="10" value="conference"/>
+                <element inactive_on_update="false" label="Travel" sequence="20" value="travel"/>
+                <element inactive_on_update="false" label="Conference and Travel" sequence="30" value="conference_and_travel"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Scientific Conference" max_length="40" name="scientific_conference" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Speaker Fees" max_length="40" name="speaker_fees" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="State or Country" max_length="40" name="state_or_country" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Teleconference Justification" max_length="40" name="teleconference_justification" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" max_length="40" name="title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Total Attendees" max_length="40" name="total_attendees" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Total Attendee Funded" max_length="40" name="total_attendee_funded" type="integer"/>
+        <element label="Total Conference Cost" max_length="40" name="total_conference_cost" type="currency"/>
+        <element label="Total Cost" max_length="40" name="total_cost" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Training Materials" max_length="40" name="training_materials" type="currency"/>
+        <element label="Training Material Description" max_length="40" name="training_material_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Travel Trip Purpose" max_length="40" name="travel_trip_purpose" type="string"/>
+        <element label="Venue" max_length="40" name="venue" type="string"/>
+    </element>
+</database>

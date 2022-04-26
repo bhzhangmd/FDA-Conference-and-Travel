@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">f5cb2f3d26920110f2cbca292ca0d39a</dataset>
+        <datasource display_value="Custom Portal Landing - My Tasks Datasource (Task table)">31cb2f3d9e920110697c20a8eea9c19a</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-03-18 19:43:54</sys_created_on>
+        <sys_id>39cb2f3d4c9201100865d6dc1bf78299</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_39cb2f3d4c9201100865d6dc1bf78299</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-03-18 19:43:54</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

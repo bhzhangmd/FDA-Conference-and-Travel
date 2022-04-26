@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">3dcb2f3dbc9201102b1f435650aa9da5</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">31cb2f3d5f920110ab94693d6a89fea2</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-03-18 19:43:53</sys_created_on>
+        <sys_id>fdcb2f3d4c920110a56a61c6c6bebb9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_fdcb2f3d4c920110a56a61c6c6bebb9f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-03-18 19:43:53</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

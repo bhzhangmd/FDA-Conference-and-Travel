@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="DELETE">
+        <order>200</order>
+        <search_context_config display_value="test doc approval app - Document Approvals Search">a54cee3795b201106549babf6627fca6</search_context_config>
+        <source display_value="">a14cee37e0b20110bb3ce2615561dec9</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-18 16:46:04</sys_created_on>
+        <sys_id>254cee3751b201106218f1c9f2469ba6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_254cee3751b201106218f1c9f2469ba6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-18 16:46:04</sys_updated_on>
+    </m2m_search_context_config_search_source>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</application>
+        <file_path/>
+        <instance_id>84f9fe42db3bdf400e785d00cf96190d</instance_id>
+        <instance_name>dev69754</instance_name>
+        <name>m2m_search_context_config_search_source_254cee3751b201106218f1c9f2469ba6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source"><m2m_search_context_config_search_source action="INSERT_OR_UPDATE"><order>200</order><search_context_config display_value="test doc approval app - Document Approvals Search">a54cee3795b201106549babf6627fca6</search_context_config><source display_value="">a14cee37e0b20110bb3ce2615561dec9</source><sys_class_name>m2m_search_context_config_search_source</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-18 16:46:04</sys_created_on><sys_id>254cee3751b201106218f1c9f2469ba6</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package><sys_policy/><sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope><sys_update_name>m2m_search_context_config_search_source_254cee3751b201106218f1c9f2469ba6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-18 16:46:04</sys_updated_on></m2m_search_context_config_search_source></record_update>]]></payload>
+        <payload_hash>-1790739387</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>a2b1f8a14712011052b87868f36d43f9</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-03-17 11:32:29</sys_created_on>
+        <sys_id>235d14184787011052b87868f36d4302</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17f97a68cc80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Application Search Sources</type>
+        <update_guid>ef5d1418458701101b11566e83828001</update_guid>
+        <update_guid_history>ef5d1418458701101b11566e83828001:-1790739387</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">e35d14184787011052b87868f36d4303</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-19 19:38:14</sys_created_on>
+        <sys_db_object display_value="" name="m2m_search_context_config_search_source">m2m_search_context_config_search_source</sys_db_object>
+        <sys_id>c9ee0bb0939f40d1a719fe14f596ffe9</sys_id>
+        <sys_metadata>254cee3751b201106218f1c9f2469ba6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="FDA Conference Travel Request and Approval " source="x_289263_fda_con_0">a01855254756011052b87868f36d435c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="FDA Conference Travel Request and Approval ">a01855254756011052b87868f36d435c</sys_scope>
+        <sys_scope_delete display_value="">f361faa53e084a5097d998f717c07c90</sys_scope_delete>
+        <sys_update_name>m2m_search_context_config_search_source_254cee3751b201106218f1c9f2469ba6</sys_update_name>
+        <sys_update_version display_value="m2m_search_context_config_search_source_254cee3751b201106218f1c9f2469ba6">235d14184787011052b87868f36d4302</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-19 19:38:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
